@@ -1,0 +1,1 @@
+MagicMirror² AFL module showing upcoming matches, recent results, and ladder standings using the Squiggle API.

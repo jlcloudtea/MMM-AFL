@@ -1,0 +1,56 @@
+.mmm-afl {
+  max-width: 520px;
+}
+
+.mmm-afl-section {
+  margin-bottom: 12px;
+}
+
+.mmm-afl-title {
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.mmm-afl-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mmm-afl-table td {
+  padding: 1px 2px 1px 0;
+  vertical-align: top;
+}
+
+.mmm-afl-game {
+  font-family: monospace;
+  letter-spacing: 0.02em;
+  white-space: pre;
+}
+
+.mmm-afl-when {
+  white-space: nowrap;
+  width: 78px;
+}
+
+.mmm-afl-info {
+  white-space: nowrap;
+  width: 64px;
+}
+
+.mmm-afl-ladder td:nth-child(2) {
+  width: 34px;
+}
+
+.mmm-afl-ladder td:nth-child(3) {
+  width: 52px;
+}
+
+.mmm-afl-highlight {
+  color: #fff;
+  font-weight: 600;
+}
+
+.mmm-afl-updated {
+  margin-top: 6px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mmm-afl",
+  "version": "0.1.0",
+  "description": "MagicMirror module for AFL fixtures, results, and ladder standings using the Squiggle API",
+  "main": "MMM-AFL.js",
+  "author": "Joe / contributors",
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "magicmirror2",
+    "afl",
+    "sports",
+    "squiggle"
+  ],
+  "dependencies": {}
+}

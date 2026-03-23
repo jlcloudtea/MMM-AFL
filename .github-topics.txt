@@ -1,0 +1,6 @@
+magicmirror
+magicmirror2
+afl
+sports
+squiggle
+module
