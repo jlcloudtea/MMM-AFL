@@ -15,8 +15,8 @@ The module can show:
 - **Next Matches**
 - **Recent Results**
 - **Ladder**
-
 You can enable or disable each section independently.
+![Screenshot](MMM-AFL.png)
 
 ## Installation
 From your MagicMirror `modules` directory:
